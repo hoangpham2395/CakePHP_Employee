@@ -2,4 +2,4 @@
 Quản lý nhân viên bằng framework CakePHP
 
 # Setup
-```composer install```
+- Cài đặt composer: ```composer install```
