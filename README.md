@@ -1,2 +1,5 @@
 # CakePHP_Employee
-Quản lý nhân viên bằng frame CakePHP
+Quản lý nhân viên bằng framework CakePHP
+
+# Setup
+```composer install```
